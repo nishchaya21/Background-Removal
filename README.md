@@ -23,4 +23,4 @@ pip install mediapipe
 </ol>
 
 ## RESULT:
-<img src="https://drive.google.com/file/d/158shWhwi-RXhUu3CX-6G6SxB6TbDvU0f/view?usp=sharing" alt="Result">
+<img src="https://github.com/nishchaya21/Background-Removal/blob/main/Screenshot%202022-11-05%20at%204.39.37%20PM.png" alt="Result">
