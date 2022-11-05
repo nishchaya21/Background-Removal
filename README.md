@@ -21,3 +21,6 @@ pip install mediapipe
   <li>Pressing the 'A' key changes the current background to the previous background.</li>
   <li>Pressing the 'Q' key closes the current window capturing the current image.</li>
 </ol>
+
+## RESULT:
+<img src="https://drive.google.com/file/d/158shWhwi-RXhUu3CX-6G6SxB6TbDvU0f/view?usp=sharing" alt="Result">
